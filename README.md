@@ -1,2 +1,2 @@
-# EazzyShop
-created using HTML,CSS and JavaScript
+# EazyShop
+Created using HTML,CSS and JavaScript
